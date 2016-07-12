@@ -1,0 +1,163 @@
+/*
+Theme Name: Icthus Church
+Description: Used to style the content editor in posts and pages.
+*/
+
+
+/* =Body
+----------------------------------------------- */
+html .mceContentBody {
+	max-width: 730px;
+}
+
+body,
+.acf-field textarea {
+  color: #777;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.42857143;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: 'Lato',Helvetica,Arial,sans-serif;
+	font-weight: 400;
+}
+
+/* =Base elements
+----------------------------------------------- */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+	color: #de7600;
+}
+
+.btn-primary {
+	background-color: #de7600;
+	color: #fff;
+	text-decoration: none;
+	padding: 5px 10px;
+	border-radius: 4px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #525359;
+	margin-top: 0;
+	margin-bottom: 11px;
+	line-height: 1.1;
+}
+
+a:focus,
+a:hover,
+a:active {
+	color: #924d00;
+}
+
+.btn-primary:focus,
+.btn-primary:hover,
+.btn-primary:active {
+	background-color: #924d00;
+	color: #fff;
+}
+
+.table th {
+  color: #525359;
+}
+
+h1 {
+	font-size: 1.875em;
+}
+
+h2 {
+	font-size: 1.75em;
+}
+
+h3 {
+	font-size: 1.71em;
+}
+
+h4 {
+	font-size: 1.43em;
+}
+
+p {
+	margin-bottom: 10px;
+	margin-top: 0;
+}
+
+ul,
+ol {
+	margin-bottom: 10px;
+	margin-top: 0;
+}
+
+table {
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 20px;
+}
+
+td,
+th {
+	padding: 5px;
+	border-top: 1px solid #ddd;
+	line-height: 1.42857143;
+	vertical-align: top;
+}
+
+
+
+
+/* =Alignment
+----------------------------------------------- */
+
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
